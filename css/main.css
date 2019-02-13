@@ -1,0 +1,16 @@
+html, body{
+    background-color: #34403A;
+}
+
+header {
+    color: #18FF6D;
+}
+
+#search {
+    background-color: #138A36;
+    font-size:1.5rem;
+}
+
+.p-top {
+    height:15vh;
+}
